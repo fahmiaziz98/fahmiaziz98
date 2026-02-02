@@ -14,7 +14,7 @@ I'm an **AI/ML Engineer** passionate about building advanced machine learning an
 - Specializing in **RAG**, **LangChain**, and **Prompt Engineering**
 - Available for freelance/part-time or full-time.
 - Ask me about **AI Agents, Chatbots, RAG systems, and NLP**
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/fahmi-aziz-fadhil-979480235/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/fahmi-aziz-fadhil-979480235/) or [Upwork](https://www.upwork.com/freelancers/~0136a77a908c727f40)
 
 ## 💼 What I Do
 
@@ -85,6 +85,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmi-aziz-fadhil-979480235/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmiaziz98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahmiazizfadhil09@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0136a77a908c727f40)
+
 
 ---
 
